@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "bin": {
-    "applePodcastUrlConverter": "./main.js"
+    "apple-podcast-to-feed-url": "./main.js"
   },
   "license": "ISC",
   "dependencies": {
